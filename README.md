@@ -1,5 +1,5 @@
 <div>Majored in both Business Administration and Public Administration in US during my entire 20s</div>
-<div>For my 30s I have stepped in programming world and buckeld down on it</div>
+<div>For my 30s I have stepped in programming world and buckeld down on it!!</div>
 
 
 
