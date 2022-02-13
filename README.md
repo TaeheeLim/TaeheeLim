@@ -18,5 +18,13 @@ src="https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b7
 <a href="https://open.kakao.com/o/sZKLecJd"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/></a>
 </div>
 
+<div id="introduction">
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=TaeheeLim&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeheeLim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/TaeheeLim)
+</div>
+
+<style>
+#introduction {
+ margin-top : 20px; 
+ }
+</style>
