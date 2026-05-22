@@ -42,7 +42,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeheeLim&show_icons=true&theme=tokyonight&hide_border=true" alt="TaeheeLim's github stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaeheeLim&theme=tokyonight" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaeheeLim&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaeheeLim&theme=tokyonight" alt="most used languages"/>
 </p>
 
 <p align="center">
@@ -50,7 +55,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TaeheeLim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeheeLim&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=TaeheeLim&theme=tokyonight&no-frame=true&column=7" alt="trophy"/>
 </p>
